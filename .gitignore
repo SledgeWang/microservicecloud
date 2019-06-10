@@ -1,26 +1,40 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
 /.settings
 /.project
+/target
+
+/microservicecloud-provider/.settings
+/microservicecloud-provider/target
+/microservicecloud-provider/.classpath
+/microservicecloud-provider/.project
+
+/microservicecloud-euerka-7003/.settings
+/microservicecloud-euerka-7003/target
+/microservicecloud-euerka-7003/.classpath
+/microservicecloud-euerka-7003/.project
+
+
+/microservicecloud-euerka-7002/.settings
+/microservicecloud-euerka-7002/target
+/microservicecloud-euerka-7002/.classpath
+/microservicecloud-euerka-7002/.project
+
+/microservicecloud-euerka-7001/.settings
+/microservicecloud-euerka-7001/target
+/microservicecloud-euerka-7001/.classpath
+/microservicecloud-euerka-7001/.project
+
+/microservicecloud-consumer/.settings
+/microservicecloud-consumer/target
+/microservicecloud-consumer/.classpath
+/microservicecloud-consumer/.project
+
+/microservicecloud-api/.settings
+/microservicecloud-api/target
+/microservicecloud-api/.classpath
+/microservicecloud-api/.project
+
+/microservicecloud-api/.settings
+/microservicecloud-api/target
+/microservicecloud-api/.classpath
+/microservicecloud-api/.project
+
